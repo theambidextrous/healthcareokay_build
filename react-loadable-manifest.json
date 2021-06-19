@@ -1,0 +1,16 @@
+{
+  "edit-a-job/[editLinkId].js -> suneditor-react": {
+    "id": 1288,
+    "files": [
+      "static/chunks/11a89e4f.679e1b2e8cb7f524bc7b.js",
+      "static/chunks/163.f44aa9b1fc3a3f7767a3.js"
+    ]
+  },
+  "post-a-job/index.js -> suneditor-react": {
+    "id": 1288,
+    "files": [
+      "static/chunks/11a89e4f.679e1b2e8cb7f524bc7b.js",
+      "static/chunks/163.f44aa9b1fc3a3f7767a3.js"
+    ]
+  }
+}

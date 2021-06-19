@@ -1,0 +1,13 @@
+{
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js",
+  "/about-us": "pages/about-us.html",
+  "/api/hello": "pages/api/hello.js",
+  "/edit-a-job/[editLinkId]": "pages/edit-a-job/[editLinkId].html",
+  "/find-jobs/[title]/[location]/[category]": "pages/find-jobs/[title]/[location]/[category].html",
+  "/": "pages/index.js",
+  "/job-description/[jobId]": "pages/job-description/[jobId].html",
+  "/post-a-job": "pages/post-a-job.html",
+  "/_error": "pages/_error.js",
+  "/404": "pages/404.html"
+}
